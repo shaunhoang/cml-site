@@ -35,6 +35,11 @@ sections:
             <img src="home/uzh-logo.png" alt="UZH" style="height: 60px; max-width: 100%;">
           </a>
         </div>
+    design:
+      background:
+        color: '#fff'
+      spacing:
+        padding: ['50px', '0', '50px', '0']
 
   - block: slider
     content:
@@ -107,7 +112,7 @@ sections:
           size: 
           text_color_light: true
       spacing:
-        padding: ['100px', '0', '100px', '0']
+        padding: ['150px', '0', '150px', '0']
 
   - block: collection
     content:
