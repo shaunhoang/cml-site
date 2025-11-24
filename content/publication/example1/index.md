@@ -1,8 +1,8 @@
 ---
 title: "An example report/presentation"
 authors:
-- B. Taylor
-- C. Peiret-Garcia
+- Beatrice Taylor
+- Clara Peiret-Garcia
 
 author_notes: 
 date: "2020-09-01T00:00:00Z"
