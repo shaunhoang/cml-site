@@ -7,7 +7,6 @@ sections:
   - block: markdown
     content:
       text: "
-      [![](featured.jpg)]()
       Track-UK
       "
 ---
