@@ -25,7 +25,7 @@ jobs:
 
       - name: Install Dependencies
         run: |
-          pip install jupyter nbconvert nbformat ipykernel
+          pip install jupyter nbconvert nbformat
 
       - name: Convert Notebooks to Markdown
         shell: python
@@ -34,7 +34,6 @@ jobs:
           import re
           import nbformat
           from nbconvert import MarkdownExporter
-          from nbconvert.preprocessors import ExecutePreprocessor
           from traitlets.config import Config
           from datetime import datetime
 
@@ -59,9 +58,6 @@ jobs:
               c.MarkdownExporter.extract_output = True
               exporter = MarkdownExporter(config=c)
               
-              # Initialize the execution preprocessor
-              ep = ExecutePreprocessor(timeout=600, kernel_name='python3')
-
               count = 0
               for root, dirs, files in os.walk("."):
                   dirs[:] = [d for d in dirs if d not in EXCLUDE_DIRS]
@@ -80,10 +76,6 @@ jobs:
                           try:
                               with open(notebook_path, 'r', encoding='utf-8') as f:
                                   nb = nbformat.read(f, as_version=4)
-                              
-                              # Execute the notebook
-                              print("    -> Executing notebook...")
-                              ep.preprocess(nb, {'metadata': {'path': output_folder}})
                               
                               (body, resources) = exporter.from_notebook_node(nb)
 
