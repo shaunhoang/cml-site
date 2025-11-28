@@ -1,6 +1,4 @@
-This website is built using Hugo and Hugo Blox. You can edit and commit directly on GitHub's codespace, or edit locally.
-
-**Note:** 
+This website is built using Hugo and Hugo Blox. You can edit and commit directly on GitHub's codespace (minor text fixes), or edit locally (recommended for stability).
 
 ## 1. Set up local development env
 
