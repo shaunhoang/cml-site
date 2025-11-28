@@ -2,14 +2,16 @@
 title: 
 type: landing
 sections:
-  - block: portfolio
+  - block: collection
     content:
       title: Blog
       subtitle: What we're thinking about...
+      text:
+      count: 
       filters:
         folders:
           - blog
     design:
-      columns: '2'
       view: card
+      columns: '2'
 ---

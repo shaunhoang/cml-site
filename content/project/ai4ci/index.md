@@ -2,12 +2,26 @@
 title: "Artificial Intelligence for Collective Intelligence (AI4CI) - Smart Cities"
 show_date: false
 type: landing
+summary: A new research hub to address society's most pressing challenges we need new kinds of Collective Intelligence.
+
 
 sections:
+  - block: hero
+    content:
+      title: Artificial Intelligence for Collective Intelligence (AI4CI) - Smart Cities     
+      text: A CASA-UCL project 
+    design:
+      background:
+        image: 
+          filename: 'welcome.jpg'
+          filters:
+            brightness: '0.5'
+        text_color_light: true
+        color: '#333'
+
   - block: markdown
     content:
       text: "
-      [![](featured.jpg)]()
       ## Aims and Objectives
 
       To address society’s most pressing challenges we must be able to reliably engineer important new kinds of Collective Intelligence:
@@ -27,7 +41,3 @@ sections:
       [![AI4CI](AI4CI.png)](https://ai4ci.ac.uk/)
       "
 ---
-
-A new research hub to address society’s most pressing challenges we need new kinds of Collective Intelligence.
-
-<!--more-->

@@ -2,12 +2,25 @@
 title: "Department for Transport - National Trip End Model Synthetic Population"
 show_date: false
 type: landing
+summary: A synthetic population for the Department for Transport.
 
 sections:
+  - block: hero
+    content:
+      title: Department for Transport - National Trip End Model Synthetic Population     
+      text: A CASA-DFT project 
+    design:
+      background:
+        image: 
+          filename: 'welcome.jpg'
+          filters:
+            brightness: '0.5'
+        text_color_light: true
+        color: '#333'
+
   - block: markdown
     content:
       text: "
-      [![](featured.jpg)]()
       ## Aims and Objectives
 
       This work is aimed at building a synthetic population for Great Britain.
@@ -21,7 +34,3 @@ sections:
       Department for Transport (DfT)
       "
 ---
-
-A synthetic population for the Department for Transport.
-
-<!--more-->

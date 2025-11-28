@@ -2,7 +2,7 @@
 title: 
 type: landing
 sections:
-  - block: portfolio
+  - block: collection
     content:
       title: Projects
       subtitle: What we're working on...
@@ -11,5 +11,5 @@ sections:
           - project
     design:
       columns: '2'
-      view: card
+      view: showcase
 ---
