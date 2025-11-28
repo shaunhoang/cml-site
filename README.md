@@ -7,7 +7,7 @@ This website is built using Hugo and Hugo Blox. You can edit and commit directly
     ```pwsh
     Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
     iwr -useb get.scoop.sh | iex
-    # Press `Y` and enter if asked `Do you want to change the execution policy?`. 
+    # Press `Y` and Enter if asked `Do you want to change the execution policy?`. 
     ```
 - Then install Hugo and its dependencies
     ```pwsh
@@ -28,12 +28,12 @@ This website is built using Hugo and Hugo Blox. You can edit and commit directly
     ```pwsh
     brew install git golang hugo node
     ```
-## 2. Start Development server
+To start Development server
 ```pwsh
 hugo server
 ```
 
-## 3. Adding a Blog Post 
+## 2. Adding a Blog Post 
 
 Blog posts are in markdown format. If necessary, render `index.md` documents from `.qmd` or `.ipynb` formats **locally before pushing** the changes to GitHub repo for build. 
 
@@ -87,3 +87,7 @@ Blog posts are in markdown format. If necessary, render `index.md` documents fro
     git commit -m "Add post"
     git push
     ```
+
+## 3. Updating publications + adding members and projects
+
+To be added
