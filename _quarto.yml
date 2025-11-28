@@ -1,0 +1,11 @@
+project:
+  type: hugo
+
+execute:
+  freeze: auto
+  warning: false
+
+format:
+  hugo-md:
+    code-fold: true
+    variant: +yaml_metadata_block

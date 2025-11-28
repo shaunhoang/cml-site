@@ -98,8 +98,6 @@ sections:
       filters:
         author: ''
         category: ''
-        exclude_featured: false
-        publication_type: ''
         tag: ''
         folders:
           - blog

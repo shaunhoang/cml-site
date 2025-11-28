@@ -16,7 +16,7 @@ removePathAccents: true
 ############################
 ## ADVANCED
 ############################
-enableGitInfo: true
+enableGitInfo: false
 summaryLength: 20
 pagination:
   pagerSize: 10
@@ -44,7 +44,9 @@ taxonomies:
   publication_type: publication_types
   author: authors
 markup:
-  defaultMarkdownHandler: goldmark
+  goldmark:
+    renderer:
+      unsafe: true
   _merge: deep
 related:
   threshold: 50
