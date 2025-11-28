@@ -1,47 +1,57 @@
-This website is built using Hugo and Hugo Blox. You can edit and commit directly on GitHub's codespace (minor text fixes), or edit locally (recommended for stability).
+This website is built using Hugo and Hugo Blox, deployed with GitHub Pages. You can edit and commit directly on GitHub's codespace (only minor text edits), or locally (recommended for stability) by following these steps.
 
-## 1. Set up local development env
+## 1. Set up for local development
 
 ### Windows
-- Install Scoop, the package manager for Windows
+- Install Scoop, the Windows package manager
+
     ```pwsh
     Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
     iwr -useb get.scoop.sh | iex
     # Press `Y` and Enter if asked `Do you want to change the execution policy?`. 
     ```
-- Then install Hugo and its dependencies
+- Install Hugo and its dependencies
+
     ```pwsh
-    scoop install git go hugo-extended nodejs
+    scoop bucket add extras
+    scoop install git go hugo-extended nodejs quarto
     ```
 
 ### Mac
-- Install Homebrew, the Mac package manager,
+- Install Homebrew, the Mac package manager
+
     ```pwsh
     /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
     ```
-- Apply any Homebrew updates:
-
-    ```pwsh
-    brew update && brew upgrade
-    ```
 - Install Hugo and its dependencies
     ```pwsh
-    brew install git golang hugo node
+    brew update && brew upgrade
+    brew install git golang hugo node quarto
     ```
-To start Development server
-```pwsh
+
+Clone the repository and enter project folder
+```bash
+git clone https://github.com/shaunhoang/cml-site.git
+cd ../cml-site/ # adjust accordingly
+```
+Inititalise project
+```bash
+hugo mod tidy
+```
+To start development server (available on `http://localhost:1313/`)
+```bash
 hugo server
 ```
 
 ## 2. Adding a Blog Post 
 
-Blog posts are in markdown format. If necessary, render `index.md` documents from `.qmd` or `.ipynb` formats **locally before pushing** the changes to GitHub repo for build. 
+Blog posts are in markdown format. Render `index.md` documents from `.qmd` or `.ipynb` formats **locally before pushing** the changes to GitHub repo for build. 
 
 1. Create a post in a new folder in `content/blog/`. The source file must be named `index` for correct rendering. E.g.
     - Markdown: `content/blog/my-post/index.md`, or
     - Quarto: `content/blog/my-post/index.qmd`, or
     - Jupyter: `content/blog/my-post/index.ipynb`
-2. Remember to include YAML front matter at the top of the `.md` and `.qmd` file (or first cell for `.ipynb` in `raw` format).
+2. Include YAML front matter at the top of the `.md` and `.qmd` file (or first cell for `.ipynb` in `raw` format).
     ```yaml
     ---
     ### Required
@@ -69,25 +79,28 @@ Blog posts are in markdown format. If necessary, render `index.md` documents fro
     url_video: ''
     ---
     ```
-4. Add a featured image in the same folder, to be named `featured.jpg`
+3. Add a featured image in the same folder, must be named `featured.jpg`
 
-5. Follow these steps only to render `.qmd` and `.ipynb` locally. If the file is already `index.md`, skip to #6.
-    - Install [Quarto](https://quarto.org/docs/get-started/)
-    - To render, run from root folder (i.e., where the `_quarto.yml` file is located)
-      ```pwsh
+4. Execute and render `.qmd` and `.ipynb` to `.md` locally. If the file is already `index.md` and has no executable codes, skip to next step.
+    - Run from root folder (e.g. `C:\...\cml-site>`)
+      ```bash
       quarto render content/blog/my-post/index.qmd  
       # or quarto render content/blog/my-post/index.ipynb
       ```
-    - Verify `index.md` and `index_files/` were generated, 
+    - Verify `index.md` and `index_files/` were generated inside the folder. 
 
-6. Commit everything
+5. Commit and push to GitHub
 
-    ```pwsh
+    ```bash
     git add .
     git commit -m "Add post"
     git push
     ```
 
-## 3. Updating publications + adding members and projects
+## 3. Adding members and projects
+
+To be added
+
+## 4. Updating publications
 
 To be added
