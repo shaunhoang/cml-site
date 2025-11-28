@@ -1,7 +1,7 @@
 ---
 ### Required
 title: A regular post (.md)
-date: 2025-05-02
+date: 2025-10-02
 authors: # names must match names in content/authors for correct linkage
 - Claude Lynch
 - Esra Suel
@@ -25,3 +25,13 @@ url_pdf: ''
 ---
 
 Content here in Markdown language
+
+# Hello
+
+Hi, world!
+
+## Analysis
+
+Great results with a link to some [link](https://en.wikipedia.org/wiki/Opossum) about possums
+
+![](https://www.havahart.com/media/Articles/Havahart/All-About-Opossums.jpg)
