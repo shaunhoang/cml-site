@@ -81,7 +81,7 @@ Blog posts are in markdown format. For blogposts with executable codes, render `
     ```
 3. Add a featured image in the same folder, must be named `featured.jpg`
 
-4. Execute codes and render `.qmd` and `.ipynb` to Markdown locally.  Quarto has benn configured to convert them into Hugo-compatible `index.md`. (This step is not necessary for markdown files with no executable codes).
+4. Execute codes and render `.qmd` and `.ipynb` to Markdown locally.  Quarto has been configured to convert them into Hugo-compatible `index.md`. (This step is not necessary for markdown files with no executable codes).
     - Run from root folder (e.g. `C:\...\cml-site>`)
       ```bash
       quarto render content/blog/my-post/index.qmd  
@@ -99,8 +99,15 @@ Blog posts are in markdown format. For blogposts with executable codes, render `
 
 ## 3. Adding members and projects
 
-To be added
+Make a copy of an existing folder under `project\` or `authors\` and make an desired changes for the new team member / project. Note that the folder's name is important and is how the new project or person can be connected with other resources like blog posts and publications. 
+
+For consistency, the naming conventions are:
+- Project: single string (e.g., `project\space-syntax-urban-morph\`)
+- People: full name as would appear on publications (e.g., `authors\Sherlock Holmes\`)
 
 ## 4. Updating publications
 
-To be added
+1. Update `publications.bib` following the BibTex format. If applicable, make sure authors' names are consistent with those under `authors\`.
+2. Commit and push this change to GitHub
+3. A Pull Request will be generated in GitHub. Approve this PR, or request someone with PR approval permission to.
+4. List of Publications and linkages to people will be authomatically updated on the website.
