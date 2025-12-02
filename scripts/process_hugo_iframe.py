@@ -1,5 +1,5 @@
 # THIS SCRIPT IS USED TO PROCESS THE QUARTO HTML OUTPUTS FOR HUGO INTEGRATION.
-# 1. It extracts metadata from the source .qmd or .ipynb files.
+# 1. It extracts metadata from the source .md, .qmd or .ipynb files.
 # 2. It moves the generated HTML files to the 'static' directory.
 # 3. It creates a Hugo-compatible Markdown wrapper with the metadata + an iframe to embed the HTML content.
 
@@ -183,12 +183,12 @@ def process_file(html_file_str: str):
 
     # 2. Identify Source File (.qmd or .ipynb)
     source_file = next(
-        (html_path.with_suffix(ext) for ext in [".qmd", ".ipynb"] if html_path.with_suffix(ext).exists()), 
+        (html_path.with_suffix(ext) for ext in [".md", ".qmd", ".ipynb"] if html_path.with_suffix(ext).exists()), 
         None
     )
     
     if not source_file:
-        print(f"Skipping {html_path.name}: No source .qmd or .ipynb found.")
+        print(f"Skipping {html_path.name}: No source .md .qmd or .ipynb found.")
         return
 
     # 3. Clean HTML

@@ -1,11 +1,11 @@
 ---
 ### Required
-title: A regular post (.md)
+title: "A post renderd from Markdown (.md)"
 date: 2025-10-02
-authors: # names must match names in content/authors for correct linkage
+authors: 
 - Claude Lynch
 - Esra Suel
-summary: The summary that will show up in the preview card
+summary: "The summary that will show up in the preview card"
 draft: false
 featured: true
 
@@ -14,24 +14,39 @@ tags:
 - Mobility Patterns
 - Machine Learning
 
-# If the post is linked to any project under content/project/, add the folder's name(s), e.g. ['ai4ci','ntem']. Otherwise, leave blank.
-projects: [] 
+# Projects linkage
+projects: []
 
-# Add collaterals which will show up as clickable buttons on the post
+# Collaterals
 url_code: 'https://github.com/CityModellingLab/'
+url_pdf: ''
 url_slides: 'https://adamdennett.github.io/AUM2024/AUM2024Presentation.html'
 url_video: 'https://www.youtube.com/watch?v=JrhGCrtiXNw'
-url_pdf: ''
 ---
 
-Content here in Markdown language
+<iframe id="quarto-report" src="/cml-site/blog/post1-md/index_prerendered.html" width="100%" style="border:none; width: 100%; display: block;" scrolling="no"></iframe>
 
-# Hello
+<script>
+  (function() {
+    const iframe = document.getElementById('quarto-report');
+    if (iframe) {
+      iframe.onload = function() {
+        // Initial Resize
+        const body = iframe.contentWindow.document.body;
+        const html = iframe.contentWindow.document.documentElement;
+        
+        const height = Math.max(
+            body.scrollHeight, body.offsetHeight, 
+            html.clientHeight, html.scrollHeight, html.offsetHeight
+        );
+        iframe.style.height = height + 'px';
 
-Hi, world!
-
-## Analysis
-
-Great results with a link to some [link](https://en.wikipedia.org/wiki/Opossum) about possums
-
-![](https://www.havahart.com/media/Articles/Havahart/All-About-Opossums.jpg)
+        // Continuous Resize (for interactive elements)
+        const resizeObserver = new ResizeObserver(() => {
+           iframe.style.height = iframe.contentWindow.document.body.scrollHeight + 'px';
+        });
+        resizeObserver.observe(iframe.contentWindow.document.body);
+      };
+    }
+  })();
+</script>
