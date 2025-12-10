@@ -19,7 +19,7 @@ sections:
   - block: markdown
     content:
       text: |
-        We combine Arup's mission-oriented delivery with the methodological innovation of UCL and UZH. Too often, a disconnect exists in the urban sector: academic theory lacks practical pathways to market, while commercial solutions are frequently siloed and short-lived. We bridge this gap by aligning the pace of consultancy with the depth of research. Our partnership creates a direct pipeline where rigorous academic tools are refined for high-stakes decision-making, and real-world industry challenges drive scalable, long-term inquiry. 
+        We combine Arup's mission-oriented delivery with the methodological innovation of the Bartlett Centre for Advanced Spatial Analysis (CASA) at the University College London and the University of Zürich. Our partnership bridges the gap between academia and applications by aligning the pace of consultancy with the depth of research, creating a direct pipeline where rigorous academic tools are refined for high-stakes decision-making and real-world industry challenges drive scalable, long-term inquiry. 
 
   - block: people
     content:

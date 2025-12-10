@@ -24,12 +24,12 @@ sections:
   - block: markdown
     content:
       text: |
-        <div style="display:flex; gap:120px; justify-content:center; align-items:center; flex-wrap:wrap; padding: 20px 0;">
-          <a href="https://www.ucl.ac.uk/bartlett/casa">
-            <img src="home/ucl-logo.png" alt="UCL" style="height: 60px; max-width: 100%;">
-          </a>
+        <div style="display:flex; gap:100px; justify-content:center; align-items:center; flex-wrap:wrap; padding: 0px 0;">
           <a href="https://www.arup.com/">
             <img src="home/arup-logo.png" alt="Arup" style="height: 60px; max-width: 100%;">
+          </a>
+          <a href="https://www.ucl.ac.uk/bartlett/casa">
+            <img src="home/casa-logo.png" alt="UCL" style="height: 100px; max-width: 100%;">
           </a>
           <a href="https://www.geo.uzh.ch/">
             <img src="home/uzh-logo.png" alt="UZH" style="height: 60px; max-width: 100%;">
@@ -49,7 +49,7 @@ sections:
         align: left
         background:
           image:
-            filename: welcome.jpg
+            filename: ai4ci-welcome.png
             filters:
               brightness: 0.3
           position: center
@@ -62,7 +62,7 @@ sections:
         align: left
         background:
           image:
-            filename: welcome.jpg
+            filename: ntem-welcome.png
             filters:
               brightness: 0.3
           position: center
@@ -75,7 +75,7 @@ sections:
         align: left
         background:
           image:
-            filename: welcome.jpg
+            filename: track-uk-welcome.png
             filters:
               brightness: 0.3
           position: center
@@ -94,7 +94,7 @@ sections:
       title: Latest Posts
       subtitle:
       text:
-      count: 3
+      count: 2
       filters:
         author: ''
         category: ''
