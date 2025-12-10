@@ -56,7 +56,7 @@ highlight_name: false
 
 # Organizational groups that you belong to
 user_groups:
-  - Postdoc Researchers
+  - Meet the team
 ---
 
 Bea joined CASA as a postdoc in 2024. She’s interested in applied machine learning, mathematical modelling, public policy and (unrelatedly) knitting.

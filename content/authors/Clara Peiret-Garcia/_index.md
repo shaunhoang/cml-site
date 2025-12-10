@@ -59,7 +59,7 @@ highlight_name: false
 
 # Organizational groups that you belong to
 user_groups:
-  - Postdoc Researchers
+  - Meet the team
 ---
 
 Clara joined CASA as a postdoc in January 2025. Her research focuses in identifying spatial inequalities in transport, and developing and applying new methods based using survey data. She is very partial to pretty maps and Bruce Springsteen.

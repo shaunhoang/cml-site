@@ -59,7 +59,7 @@ highlight_name: false
 
 # Organizational groups that you belong to
 user_groups:
-  - Principal Investigators
+  - Meet the team
 ---
 
 Gerry leads the Arup City Modelling Lab team, and helped found the CASA Arup City Modelling Lab at UCL.

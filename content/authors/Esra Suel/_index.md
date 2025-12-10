@@ -62,7 +62,7 @@ highlight_name: false
 
 # Organizational groups that you belong to
 user_groups:
-  - Principal Investigators
+  - Meet the team
 ---
 
 Esra's most recent research is driven by questions related to transport and energy transitions to net-zero, urban change, and their links to socio-economic and health inequalities. Her new research group at the Department of Geography will focus on computational methods to study urban systems, integrating traditional and big data sources. 
