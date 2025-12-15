@@ -6,7 +6,7 @@ authors:
 - Adam Dennett
 - Andrew Hudson-Smith
 date: '2018-04-01'
-publishDate: '2025-12-15T22:23:59.264451Z'
+publishDate: '2025-12-15T22:32:14.718558Z'
 publication_types:
 - paper-conference
 abstract: The concept of Digital Twin is becoming increasingly popular with researchers

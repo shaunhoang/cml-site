@@ -5,7 +5,7 @@ authors:
 - Xinlei Yan
 - Adam Dennett
 date: '2023-12-01'
-publishDate: '2025-12-15T22:23:59.363190Z'
+publishDate: '2025-12-15T22:32:14.732562Z'
 publication_types:
 - article-journal
 publication: '*Applied Geography*'
