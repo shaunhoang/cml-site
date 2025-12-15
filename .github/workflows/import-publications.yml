@@ -11,7 +11,7 @@ on:
   push:
     branches:
       - main
-    paths: ['publications.bib']
+    paths: ['data/publications.bib']
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -32,8 +32,8 @@ jobs:
           python -m pip install --upgrade pip
           pip install academic==0.10.0
       - name: Run Academic (Bibtex To Markdown Converter)
-        if: ${{ hashFiles('publications.bib') != '' }}
-        run: academic import publications.bib content/publication/ --compact --overwrite
+        if: ${{ hashFiles('data/publications.bib') != '' }}
+        run: academic import data/publications.bib content/publication/ --compact --overwrite
       - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"

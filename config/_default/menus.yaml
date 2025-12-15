@@ -1,5 +1,8 @@
 # Navigation Links
 main:
+  - name: People
+    url: people
+    weight: 10  
   - name: Projects
     url: project
     weight: 20
@@ -9,6 +12,3 @@ main:
   - name: Publications 
     url: publication
     weight: 40
-  - name: People
-    url: people
-    weight: 10

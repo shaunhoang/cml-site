@@ -106,6 +106,6 @@ For consistency, the naming conventions are:
 
 ## 4. Updating publications
 
-1. Update `publications.bib` following the BibTex format. Make sure CML authors' names are consistent with those under `authors\`.
+1. Under `data\`, update `publications.bib` following the BibTex format. Make sure CML authors' names are consistent with their names `authors\`.
 2. Commit and push this change to GitHub
 3. The Publications page and linkages to people will be automatically updated on the website.
