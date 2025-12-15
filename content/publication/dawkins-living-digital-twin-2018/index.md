@@ -6,12 +6,12 @@ authors:
 - Adam Dennett
 - Andrew Hudson-Smith
 date: '2018-04-01'
-publishDate: '2025-12-15T21:44:29.895340Z'
+publishDate: '2025-12-15T21:47:56.224945Z'
 publication_types:
 - paper-conference
 abstract: The concept of Digital Twin is becoming increasingly popular with researchers
   and professionals in  the AEC industries as a means of visualising, modelling and
-  working with complex urban systems.  This is achieved through the coupling of physical
+  working with complex urban systems. This is achieved through the coupling of physical
   systems with comprehensive digital representations  that automatically update to
   match the state of their physical counterpart. Using real-time data from  IoT technologies
   and advanced 3D visualisation this research conducts a practical investigation into  the

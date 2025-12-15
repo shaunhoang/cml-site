@@ -9,7 +9,7 @@ authors:
 - Gerard Casey
 - Adam Dennett
 date: '2024-01-01'
-publishDate: '2025-12-15T21:44:29.902090Z'
+publishDate: '2025-12-15T21:47:56.232085Z'
 publication_types:
 - article-journal
 publication: '*Transport Reviews*'
