@@ -1,6 +1,27 @@
-name = "Custom Theme"
+name = "Main CML Theme"
 
 [light]
+  # Main accent color
+  primary = "#e61e28"
+
+  # Navigation Bar Background
+  menu_primary = "#000000"
+
+  # Navigation Text Color (Links)
+  menu_text = "#ffffff"
+
+  # Navigation Title Color (The Logo Text)
+  menu_title = "#ffffff"
+
+  # Navigation Hover Color (Darker Red)
+  menu_text_active = "#e61e28"
+
+  # Backgrounds
+  background = "#ffffff"
+  home_section_odd = "#ffffff"
+  home_section_even = "#f8f9fa"
+
+[dark]
   # Main accent color
   primary = "#e61e28"
 
