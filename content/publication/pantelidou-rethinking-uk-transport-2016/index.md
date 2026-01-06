@@ -7,7 +7,7 @@ authors:
 - Peter Guthrie
 - Kenichi Soga
 date: '2016-01-01'
-publishDate: '2026-01-06T12:14:27.627782Z'
+publishDate: '2026-01-06T12:16:55.563414Z'
 publication_types:
 - article-journal
 publication: '*Proceedings of the Institution of Civil Engineers - Civil Engineering*'
@@ -22,10 +22,4 @@ abstract: Transport is a complex system, integral to national and international 
   It argues there is an urgent need to rebalance the transport modal mix, with all
   modes integrated into a seamless transport system with smart interfacing between
   them. Drivers for behavioural change are also essential.
-tags:
-- Transport Emissions
-- UK Climate Policy
-- Climate Change Act 2008
-- Sustainability
-- Greenhouse Gas Reduction
 ---

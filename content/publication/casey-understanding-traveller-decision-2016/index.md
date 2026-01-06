@@ -7,10 +7,12 @@ authors:
 - Elisabete Silva
 - Peter Guthrie
 date: '2016-01-01'
-publishDate: '2026-01-06T12:14:27.601952Z'
+publishDate: '2026-01-06T12:16:55.534145Z'
 publication_types:
 - chapter
-publication: '*ICE Publishing*'
+publication: '*Transforming the Future of Infrastructure through Smarter Information:
+  Proceedings of the International Conference on Smart Infrastructure and ConstructionConstruction,
+  27--29 June 2016*'
 doi: 10.1680/tfitsi.61279.741
 abstract: Engineers have begun to take interest in the interface between the structures
   they build and the people that use them. This has resulted in a need to better understand
@@ -29,10 +31,4 @@ abstract: Engineers have begun to take interest in the interface between the str
   and highlights a critical need to find other means of recording actual traveller
   decisions in order to understand the decision making process better. Such insights
   are critical if better strategic decisions are to be made on transport infrastructure.
-tags:
-- Traveller Behaviour
-- Decision Making
-- London Travel Demand Survey
-- Big Data
-- Socio-economic Status
 ---

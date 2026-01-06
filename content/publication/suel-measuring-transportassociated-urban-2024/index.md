@@ -9,7 +9,7 @@ authors:
 - Gerard Casey
 - Adam Dennett
 date: '2024-01-01'
-publishDate: '2026-01-06T12:14:27.646627Z'
+publishDate: '2026-01-06T12:16:55.584420Z'
 publication_types:
 - article-journal
 publication: '*Transport Reviews*'
@@ -20,7 +20,7 @@ abstract: Reducing urban inequalities is at the forefront of the global sustaina
   role in creating and reinforcing inequalities. Transport plays a central role in
   mitigating inequalities by enhancing access to employment, education, and essential
   services. It is also directly and indirectly related to disparities in housing,
-  neighbourhoods, and health. Policymakers increasingly recognise the potential of
+  neighbourhoods, and health. Policymakers increasingly recognize the potential of
   transport policies in addressing inequalities; however, the effects of interventions
   need to be understood beyond the transport sector only and should consider wider
   impacts. In this review, we concentrate on three interlinked sectors -- housing,
@@ -32,10 +32,4 @@ abstract: Reducing urban inequalities is at the forefront of the global sustaina
   is to critically review the literature across different disciplines and perspectives
   and propose future interdisciplinary directions towards better measurement and modelling
   of transport-associated inequalities.
-tags:
-- Urban Inequalities
-- Transport Policy
-- Sustainable Development
-- Housing
-- Accessibility
 ---

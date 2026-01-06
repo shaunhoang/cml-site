@@ -7,7 +7,7 @@ authors:
 - Krishna Kumar
 - Kenichi Soga
 date: '2020-01-01'
-publishDate: '2026-01-06T12:14:27.589003Z'
+publishDate: '2026-01-06T12:16:55.518860Z'
 publication_types:
 - manuscript
 publication: '*arXiv*'
@@ -33,6 +33,8 @@ abstract: Traffic congestion across the world has reached chronic levels. Despit
   better understand other influencing factors, such as the presence of on road parking
   or weather events.
 tags:
-- Statistic
-- Applications
+- Statistics - Applications
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/2011.01964
 ---

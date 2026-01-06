@@ -6,7 +6,7 @@ authors:
 - Adam Dennett
 - Andrew Hudson-Smith
 date: '2018-01-01'
-publishDate: '2026-01-06T12:14:27.608405Z'
+publishDate: '2026-01-06T12:16:55.541527Z'
 publication_types:
 - paper-conference
 abstract: The concept of Digital Twin is becoming increasingly popular with researchers
@@ -17,10 +17,4 @@ abstract: The concept of Digital Twin is becoming increasingly popular with rese
   and advanced 3D visualisation this research conducts a practical investigation into
   the process of creating and working with a Digital Twin of the new UCL Campus at
   Here East on the Queen Elizabeth Olympic Park.
-tags:
-- Digital Twin
-- IoT
-- Smart Cities
-- 3D Visualisation
-- Campus Management
 ---

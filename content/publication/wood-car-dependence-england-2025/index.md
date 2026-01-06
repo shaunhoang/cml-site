@@ -7,7 +7,7 @@ authors:
 - Gerard Casey
 - Esra Suel
 date: '2025-01-01'
-publishDate: '2026-01-06T12:14:27.653118Z'
+publishDate: '2026-01-06T12:16:55.591707Z'
 publication_types:
 - article-journal
 publication: '*Frontiers in Sustainable Cities*'
