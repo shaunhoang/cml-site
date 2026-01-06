@@ -16,16 +16,16 @@ role: Research Assistant, UZH-UCL
 bio: Shaun's research focuses on using open data, simulation, and machine learning to improve transport resilience in fast-growing cities. Obviously, he loves playing Cities Skylines.
 
 interests:
-  - Interest 1
-  - Interest 2
-  - Interest 3
+  - Transport equity and sustainability
+  - Mobility simulation and network resilience
+  - Open data and scalable methods for data-poor contexts
 
 education:
   courses:
     - course: MSc in Urban Spatial Science
       institution: University College London
       year: 2024
-    - course: MSc in Economics and Management of Technology and Innovation (EMIT)
+    - course: MSc in Economics and Management of Technology and Innovation
       institution: Università Commerciale Bocconi
       year: 2014
     - course: BA in Urban Development and Economics
