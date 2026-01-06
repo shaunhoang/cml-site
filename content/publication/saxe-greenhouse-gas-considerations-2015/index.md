@@ -6,8 +6,8 @@ authors:
 - Peter Guthrie
 - Kenichi Soga
 - Heather Cruickshank
-date: '2015-10-01'
-publishDate: '2026-01-06T11:53:14.108803Z'
+date: '2015-01-01'
+publishDate: '2026-01-06T12:00:30.721696Z'
 publication_types:
 - article-journal
 publication: '*Proceedings of the Institution of Civil Engineers - Engineering Sustainability*'

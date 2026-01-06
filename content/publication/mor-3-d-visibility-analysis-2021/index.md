@@ -6,8 +6,8 @@ authors:
 - Dafna Fisher-Gewirtzman
 - Roei Yosifof
 - Sagi Dalyot
-date: '2021-05-01'
-publishDate: '2026-01-06T11:53:14.093919Z'
+date: '2021-01-01'
+publishDate: '2026-01-06T12:00:30.706962Z'
 publication_types:
 - article-journal
 publication: '*ISPRS International Journal of Geo-Information*'

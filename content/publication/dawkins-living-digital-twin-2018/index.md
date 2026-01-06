@@ -5,8 +5,8 @@ authors:
 - Oliver Dawkins
 - Adam Dennett
 - Andrew Hudson-Smith
-date: '2018-04-01'
-publishDate: '2026-01-06T11:53:14.079816Z'
+date: '2018-01-01'
+publishDate: '2026-01-06T12:00:30.692794Z'
 publication_types:
 - paper-conference
 abstract: The concept of Digital Twin is becoming increasingly popular with researchers

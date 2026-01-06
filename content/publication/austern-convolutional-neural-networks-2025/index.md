@@ -7,8 +7,8 @@ authors:
 - Tomer Michaeli
 - Shahar Yadin
 - Dafna Fisher-Gewirtzman
-date: '2025-09-01'
-publishDate: '2026-01-06T11:53:14.012775Z'
+date: '2025-01-01'
+publishDate: '2026-01-06T12:00:30.635234Z'
 publication_types:
 - article-journal
 publication: '*Computers, Environment and Urban Systems*'

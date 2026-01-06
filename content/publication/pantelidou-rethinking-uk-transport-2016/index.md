@@ -6,8 +6,8 @@ authors:
 - Tim Chapman
 - Peter Guthrie
 - Kenichi Soga
-date: '2016-06-01'
-publishDate: '2026-01-06T11:53:14.101884Z'
+date: '2016-01-01'
+publishDate: '2026-01-06T12:00:30.714747Z'
 publication_types:
 - article-journal
 publication: '*Proceedings of the Institution of Civil Engineers - Civil Engineering*'

@@ -6,8 +6,8 @@ authors:
 - Adam Dennett
 - Gerard Casey
 - Esra Suel
-date: '2025-11-01'
-publishDate: '2026-01-06T11:53:14.130545Z'
+date: '2025-01-01'
+publishDate: '2026-01-06T12:00:30.743450Z'
 publication_types:
 - article-journal
 publication: '*Frontiers in Sustainable Cities*'

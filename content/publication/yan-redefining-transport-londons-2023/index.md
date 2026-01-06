@@ -4,8 +4,8 @@ title: Re-Defining Transport for London's Strategic Neighbourhoods from Spatial 
 authors:
 - Xinlei Yan
 - Adam Dennett
-date: '2023-12-01'
-publishDate: '2026-01-06T11:53:14.137777Z'
+date: '2023-01-01'
+publishDate: '2026-01-06T12:00:30.750822Z'
 publication_types:
 - article-journal
 publication: '*Applied Geography*'
