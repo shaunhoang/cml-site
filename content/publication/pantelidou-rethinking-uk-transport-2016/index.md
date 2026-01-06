@@ -7,7 +7,7 @@ authors:
 - Peter Guthrie
 - Kenichi Soga
 date: '2016-01-01'
-publishDate: '2026-01-06T12:39:40.369065Z'
+publishDate: '2026-01-06T12:47:17.116245Z'
 publication_types:
 - article-journal
 publication: '*Proceedings of the Institution of Civil Engineers - Civil Engineering*'

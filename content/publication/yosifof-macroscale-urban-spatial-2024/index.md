@@ -5,7 +5,7 @@ authors:
 - Guy Austern
 - Dafna Fisher-Gewirtzman
 date: '2024-01-01'
-publishDate: '2026-01-06T12:39:40.412181Z'
+publishDate: '2026-01-06T12:47:17.163963Z'
 publication_types:
 - article-journal
 abstract: "Urban morphologies play a crucial role in influencing pedestrians' visual
