@@ -10,10 +10,10 @@ last_name: Hoang
 superuser: false
 
 # Role/position
-role: Research Assistant, UZH/UCL
+role: Research Assistant, UZH-UCL
 
 # Short bio (displayed in user profile at end of posts)
-bio: Shaun Hoang is an urban mobility researcher at the University of Zurich, and University College London (UCL). His recent projects focus on transport resilience, transport inequality and open geospatial data challenges in developing economies. 
+bio: Shaun's research focuses on using open data, simulation, and machine learning to improve transport resilience in fast-growing cities. Obviously, he loves playing Cities Skylines.
 
 interests:
   - Interest 1
@@ -58,4 +58,6 @@ user_groups:
   - Meet the team
 ---
 
-Shaun Hoang is an urban mobility researcher at the University of Zurich, and University College London (UCL). His recent projects focus on transport resilience, transport inequality and open geospatial data challenges in developing economies. 
+Shaun Hoang (The-Huan)'s research focuses on improving equitable and sustainable access and transport resilience in fast-growing cities, particularly in the Global South. He is interested in combining complexity science and spatial data analysis to study first/last-mile access and transport resilience, using open geodata, simulation, and machine learning methods. His experience includes predicting trip attraction with ML and supporting traffic simulations in low-data contexts.
+
+

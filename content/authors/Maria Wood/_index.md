@@ -13,7 +13,7 @@ superuser: false
 role: PhD Researcher, UCL
 
 # Short bio (displayed in user profile at end of posts)
-bio: Maria is a PhD student at CASA who's work focuses on car dependence, transport equity, and flexibility in the context of rapid decarbonisation. 
+bio: Maria is a PhD researcher at CASA who's work focuses on car dependence, transport equity, and flexibility in the context of rapid decarbonisation. 
 
 interests:
   - Transport decarbonisation

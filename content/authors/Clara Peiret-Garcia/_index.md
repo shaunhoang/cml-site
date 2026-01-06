@@ -13,7 +13,7 @@ superuser: false
 role: Research Fellow, UCL
 
 # Short bio (displayed in user profile at end of posts)
-bio: I research human mobility patterns and how people navigate cities in different ways. My work focuses on understanding diversity in travel and activity behaviors.Clara joined CASA as a postdoc in January 2025. Her research focuses in identifying spatial inequalities in transport, and developing and applying new methods based using survey data. She is very partial to pretty maps and Bruce Springsteen.
+bio: Clara's research focuses in identifying spatial inequalities in transport, and developing and applying new methods based using survey data. She is very partial to pretty maps and Bruce Springsteen.
 
 interests:
   - Transport inequalities

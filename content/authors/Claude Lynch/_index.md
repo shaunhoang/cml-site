@@ -13,7 +13,7 @@ superuser: false
 role: PhD Researcher, UCL
 
 # Short bio (displayed in user profile at end of posts)
-bio: Claude Lynch is the only PhD researcher at the City Modelling Lab who has walked the London Loop in full. 
+bio: Claude is the only PhD researcher at the City Modelling Lab who has walked the London Loop in full. 
 
 interests:
   - Transport Geography

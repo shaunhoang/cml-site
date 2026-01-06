@@ -18,7 +18,7 @@ role: Research Fellow, UCL
 #     url: 'https://www.ucl.ac.uk/bartlett/casa'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Bea is a postdoc in CASA, she's interested in the intersection of computing and theory! 
+bio: Bea is a postdoc researcher in CASA, she's interested in the intersection of computing and theory! 
 
 interests:
   - Application of natural language processing to urban textual data

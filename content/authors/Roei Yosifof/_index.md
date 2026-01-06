@@ -13,7 +13,7 @@ superuser: false
 role: PhD Researcher, UCL
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD student in CASA currently focusing on locations of new towns, formerly an architect and urban planner.
+bio: Roei is a PhD researcher in CASA currently focusing on locations of new towns, formerly an architect and urban planner.
 
 interests:
   - Urban Analytics
