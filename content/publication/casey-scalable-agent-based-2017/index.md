@@ -1,5 +1,5 @@
 ---
-title: A Scalable Agent Based Multi-Modal Modeling Framework Using Real-Time Big-Data
+title: A Scalable Agent Based Multi-modal Modeling Framework Using Real-Time Big-Data
   Sources for Cities
 authors:
 - Gerard Casey
@@ -8,10 +8,11 @@ authors:
 - Peter Guthrie
 - Krishna Kumar
 date: '2017-01-01'
-publishDate: '2026-01-06T16:04:02.203990Z'
+publishDate: '2026-01-07T01:44:41.298832Z'
 publication_types:
 - paper-conference
-publication: '*Transportation Research Board 96th Annual Meeting*'
+publication: '*Transportation Research Board 96th Annual MeetingTransportation Research
+  Board*'
 abstract: This paper presents a framework for using real-time big-data to inform a
   transport Agent Based Model (ABM) for a range of scenario testing applications.
   Computational advances have enabled for increasingly complex, bottom-up, fine resolution

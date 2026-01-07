@@ -1,6 +1,6 @@
 ---
-title: 'Measuring Transport-ssociated Urban Inequalities: Where Are We and Where Do
-  We Go from Here?'
+title: 'Measuring Transport-Associated Urban Inequalities: Where Are We and Where
+  Do We Go from Here?'
 authors:
 - Esra Suel
 - Claude Lynch
@@ -9,11 +9,10 @@ authors:
 - Gerard Casey
 - Adam Dennett
 date: '2024-01-01'
-publishDate: '2026-01-06T16:04:02.241944Z'
+publishDate: '2026-01-07T01:44:41.380013Z'
 publication_types:
 - article-journal
 publication: '*Transport Reviews*'
-doi: 10.1080/01441647.2024.2389800
 abstract: Reducing urban inequalities is at the forefront of the global sustainable
   development agenda, as well as national and local policies. While existing measures
   of inequality are mostly focused on income and wealth, it is widely recognised that

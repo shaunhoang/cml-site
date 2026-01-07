@@ -1,5 +1,5 @@
 ---
-title: Convolutional Neural Networks for Predicting the Perceived Density of Large
+title: Convolutional Neural Networks for Predicting the emphPerceived Density of Large
   Urban Fabrics
 authors:
 - Guy Austern
@@ -8,7 +8,7 @@ authors:
 - Shahar Yadin
 - Dafna Fisher-Gewirtzman
 date: '2025-01-01'
-publishDate: '2026-01-06T16:04:02.168453Z'
+publishDate: '2026-01-07T01:44:41.262967Z'
 publication_types:
 - article-journal
 publication: '*Computers, Environment and Urban Systems*'
@@ -32,9 +32,10 @@ abstract: Urban density, along with the associated urban morphology and topology
   by the USOI. The use of a predictive model can significantly reduce the processing
   time of 3D visibility analysis on the urban scale.
 tags:
-- convolutional neural networks
-- machine learning
-- perceived density
-- ray casting
-- urban spatial openness index
+- Convolutional
+- Machine learning
+- Neural Networks
+- Perceived density
+- Ray casting
+- Urban spatial openness index
 ---

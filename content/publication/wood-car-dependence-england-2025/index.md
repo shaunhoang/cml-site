@@ -7,7 +7,7 @@ authors:
 - Gerard Casey
 - Esra Suel
 date: '2025-01-01'
-publishDate: '2026-01-06T16:04:02.249644Z'
+publishDate: '2026-01-07T01:44:41.402239Z'
 publication_types:
 - article-journal
 publication: '*Frontiers in Sustainable Cities*'
@@ -26,9 +26,9 @@ abstract: This paper explores the nuances of car dependence in England and Wales
   car dependence, especially internal combustion engine vehicles, is imperative for
   a just and climate-resilient transport system.
 tags:
-- car dependence
-- just transition
-- spatial inequality
+- Car dependence
+- Just Transition
+- Spatial inequality
 - sustainable mobility
-- transport policy
+- Transport policy
 ---

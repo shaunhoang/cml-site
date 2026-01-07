@@ -1,12 +1,12 @@
 ---
-title: 'Briefing: High-Performance Computing for City-Scale Modelling and Simulations'
+title: 'Briefing: High-performance Computing for City-Scale Modelling and Simulations'
 authors:
 - Kenichi Soga
 - Gerard Casey
 - Krishna Kumar
 - Bingyu Zhao
 date: '2018-01-01'
-publishDate: '2026-01-06T16:04:02.234509Z'
+publishDate: '2026-01-07T01:44:41.358027Z'
 publication_types:
 - article-journal
 publication: '*Proceedings of the Institution of Civil Engineers - Smart Infrastructure
