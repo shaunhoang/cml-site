@@ -1,5 +1,5 @@
 ---
-title: "National Trip End Model Synthetic Population"
+title: National Trip End Model Synthetic Population
 show_date: false
 type: landing
 summary: Building a synthetic population for the Department for Transport
@@ -25,11 +25,11 @@ sections:
 
       This work is aimed at building a synthetic population for Great Britain. It is part of an update to the National Trip End Model, that seeks to replace the components 'Scenario Generator', 'NATCOP' and 'Licence Cohort Model' with new forecasting software that generates a synthetic population that can be published as well as continuing to provide the inputs to the existing CTripEnd modelling software.
 
-      ## Funder
+      ## Project Funder
 
       [Department for Transport](https://www.gov.uk/government/organisations/department-for-transport)
 
-      ## Contact Person
+      ## Project Contact
 
       [Gerry Casey](../../author/gerry-casey)
       "

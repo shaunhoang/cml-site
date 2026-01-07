@@ -1,15 +1,14 @@
 ---
-title: "Artificial Intelligence for Collective Intelligence (AI4CI) - Smart Cities"
+title: AI for Collective Intelligence (AI4CI) - Smart Cities"
 show_date: false
 type: landing
-summary: AI-powered collective intelligence for smarter city planning
-
+summary: Artificial intelligence for smarter city planning
 
 sections:
   - block: hero
     content:
-      title: Artificial Intelligence for Collective Intelligence (AI4CI) - Smart Cities     
-      text: AI-powered collective intelligence for smarter city planning
+      title: AI for Collective Intelligence (AI4CI) - Smart Cities     
+      text: Artificial intelligence for smarter city planning
     design:
       background:
         image: 
@@ -30,11 +29,11 @@ sections:
 
       For more information about AI4CI, visit the [project website](https://ai4ci.ac.uk/).
 
-      ## Funder
+      ## Project Funder
 
       [Engineering and Physical Sciences Research Council, UKRI](https://www.ukri.org/councils/epsrc/)
 
-      ## Contact Person
+      ## Project Contact
 
       [Adam Dennett](../../author/adam-dennett)
       "

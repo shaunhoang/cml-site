@@ -44,8 +44,8 @@ sections:
   - block: slider
     content:
       slides:
-      - title: Artificial Intelligence for Collective Intelligence - Smart Cities
-        content: AI-powered collective intelligence for smarter city planning 
+      - title: AI for Collective Intelligence - Smart Cities
+        content: Artificial intelligence for smarter city planning 
         align: left
         background:
           image:
@@ -70,8 +70,8 @@ sections:
         link:
           text: Learn More
           url: project/ntem
-      - title: TRACK-UK - Synthesised Census and Small Area Statistics for Transport and Energy
-        content: Neighbourhood-scale mobility insights for UK decarbonisation
+      - title: TRACK-UK
+        content: Synthesised Census and Small Area Statistics for Transport and Energy
         align: left
         background:
           image:
@@ -83,6 +83,19 @@ sections:
         link:
           text: Learn More
           url: project/track-uk
+      - title: GeoMobility
+        content: Geodemographics for Equitable Mobility Futures
+        align: left
+        background:
+          image:
+            filename: geomobility-welcome.png
+            filters:
+              brightness: 0.3
+          position: center
+          color: '#555'
+        link:
+          text: Learn More
+          url: project/geomobility
     design:
       slide_height: ''
       is_fullscreen: true

@@ -1,14 +1,14 @@
 ---
-title: "TRACK-UK - Synthesised Census and Small Area Statistics for Transport and Energy"
+title: TRACK-UK
 show_date: false
 type: landing
-summary: Neighbourhood-scale mobility insights for UK decarbonisation
+summary: Synthesised Census and Small Area Statistics for Transport and Energy 
 
 sections:
   - block: hero
     content:
-      title: TRACK-UK - Synthesised Census and Small Area Statistics for Transport and Energy    
-      text: Neighbourhood-scale mobility insights for UK decarbonisation
+      title: TRACK-UK   
+      text: Synthesised Census and Small Area Statistics for Transport and Energy 
     design:
       background:
         image: 
@@ -27,11 +27,11 @@ sections:
 
       TRACK-UK integrates National Travel Survey and Census data, applies small-area estimation and synthetic population methods, and produces granular indicators of travel behaviour, mobility profiles, and decarbonisation progress at neighbourhood scale. The project works closely with academic, policy, and industry partners to generate evidence that supports data-driven transport and energy policy.
 
-      ## Funder
+      ## Project Funder
 
       [Economic and Social Research Council, UKRI](https://www.ukri.org/councils/esrc/)
 
-      ## Contact Person
+      ## Project Contact
 
       [Esra Suel](../../author/esra-suel)
 
