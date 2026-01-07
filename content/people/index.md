@@ -17,11 +17,6 @@ sections:
         text_color_light: true
         color: '#333'
 
-  - block: markdown
-    content:
-      text: |
-        Our collaboration bridges the gap between academia and applications by aligning the pace of consultancy of Arup with the depth of research of UCL's Centre for Advanced Spatial Analysis (UCL CASA) and the University of Zürich (UZH), creating a direct pipeline where rigorous academic tools are refined for high-stakes decision-making and real-world industry challenges, in turn, drive academic inquiry. 
-
   - block: people
     content:
       title: 
@@ -39,6 +34,10 @@ sections:
       show_role: true
       show_social: false
 
+  - block: markdown
+    content:
+      text: |
+        Our collaboration bridges the gap between academia and applications by aligning the pace of consultancy of Arup with the depth of research of UCL's Centre for Advanced Spatial Analysis (UCL CASA) and the University of Zürich (UZH), creating a direct pipeline where rigorous academic tools are refined for high-stakes decision-making and real-world industry challenges, in turn, drive academic inquiry. 
 
 
   - block: hero
